@@ -126,6 +126,7 @@ Bashin
 tstumm  
 TheGoldenXY  
 Reaver01  
+debosseta
 
 ## Credits
 ### The works are based on the Pokemon Go API
